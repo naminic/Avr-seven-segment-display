@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:4504A62D
+NODE:I LEVEL:0 LINE:9 "C:\CodeVisionAVR\inc\mega32.h"
+NODE:I LEVEL:0 LINE:10 "C:\CodeVisionAVR\inc\delay.h"
+NODE:V LEVEL:0 LINE:12 "i -> R4,R5"
+NODE:V LEVEL:0 LINE:14 "num_code -> RAM:????"
+NODE:V LEVEL:0 LINE:17 "shpins -> RAM:????"
+NODE:F LEVEL:0 LINE:19 "disp_err(void)"
+NODE:F LEVEL:0 LINE:30 "ss_s(int num)"
+NODE:F LEVEL:0 LINE:56 "main(void)"
