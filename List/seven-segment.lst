@@ -1,7 +1,7 @@
 
-AVRASM ver. 2.1.30  D:\naminic\AVR-Board\Project Files\Impelemented AVR proj\Seven Segment\Avr-seven-segment-display\List\seven-segment.asm Tue Aug 12 12:22:33 2014
+AVRASM ver. 2.1.30  D:\Ebooks\Electrical\AVR\naminic\AVR Project Files\Seven Segment\Avr-seven-segment-display\List\seven-segment.asm Mon Aug 04 20:49:30 2014
 
-D:\naminic\AVR-Board\Project Files\Impelemented AVR proj\Seven Segment\Avr-seven-segment-display\List\seven-segment.asm(1072): warning: Register r4 already defined by the .DEF directive
+D:\Ebooks\Electrical\AVR\naminic\AVR Project Files\Seven Segment\Avr-seven-segment-display\List\seven-segment.asm(1072): warning: Register r4 already defined by the .DEF directive
                  
                  
                  ;CodeVisionAVR C Compiler V2.05.3 Standard
@@ -1113,7 +1113,7 @@ D:\naminic\AVR-Board\Project Files\Impelemented AVR proj\Seven Segment\Avr-seven
 00002e 6f7f
 00002f 3180
 000030 7931
-D:\naminic\AVR-Board\Project Files\Impelemented AVR proj\Seven Segment\Avr-seven-segment-display\List\seven-segment.asm(1105): warning: .cseg .db misalignment - padding zero byte
+D:\Ebooks\Electrical\AVR\naminic\AVR Project Files\Seven Segment\Avr-seven-segment-display\List\seven-segment.asm(1105): warning: .cseg .db misalignment - padding zero byte
 000031 0040      	.DB  0x7F,0x6F,0x80,0x31,0x31,0x79,0x40
                  _0x4:
 000032 e070
